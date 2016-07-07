@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System;
+using UnityEngine.UI;
 
 public class SquareGUI : MonoBehaviour
 {
@@ -36,8 +37,8 @@ public class SquareGUI : MonoBehaviour
 
                 grid[i][j] = temp;
                 grid[i][j].transform.parent = Parent.transform;
-                grid[i][j].AddComponent<BoxCollider>();
                 grid[i][j].tag = "Square";
+                grid[i][j].AddComponent<BoxCollider>();
             }
         }
     }

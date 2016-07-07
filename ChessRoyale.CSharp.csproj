@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Behavior.cs" />
     <Compile Include="Assets\Scripts\Check_Collision.cs" />
     <Compile Include="Assets\Scripts\SquareGUI.cs" />
+    <Compile Include="Assets\Scripts\TurnScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
