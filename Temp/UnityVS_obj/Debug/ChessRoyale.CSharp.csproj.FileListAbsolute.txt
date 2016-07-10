@@ -1,0 +1,13 @@
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_obj\Debug\ChessRoyale.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Vlad\Desktop\Unity\ChessRoyale\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
